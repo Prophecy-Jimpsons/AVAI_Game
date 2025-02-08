@@ -21,7 +21,7 @@ A fun, AI-powered version of Tic Tac Toe where you can play against different di
 
 2. Navigate to the project directory:
    ```bash
-   cd super_tictactoe
+   cd avai_game
    ```
 
 3. Run the game:
